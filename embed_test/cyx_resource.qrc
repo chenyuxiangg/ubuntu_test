@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/cyx">
+        <file>Resources/lion.png</file>
+    </qresource>
+</RCC>
